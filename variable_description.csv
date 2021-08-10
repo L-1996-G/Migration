@@ -1,9 +1,9 @@
 data,description
-migration,"? STAGE - Stk_j migration from k to j stage
-? am - amount of migration
-? rate_init - migrated amount divided on total amount of portfolio in k stage at the start of year
-? rate - migrated amount divided on annual average stage k portfolio
-? am19, rate19 & rate_init19 - am, rate and rate_init in 2019 year
+migration," - STAGE - Stk_j migration from k to j stage
+- am - amount of migration
+- rate_init - migrated amount divided on total amount of portfolio in k stage at the start of year
+- rate - migrated amount divided on annual average stage k portfolio
+- am19, rate19 & rate_init19 - am, rate and rate_init in 2019 year
 "
-reserve,"? ST1, ST2, ST3, POCI, Total - reserve in percent for STAGE1, STAGE2, STAGE3, POCI & TOTAL portfolio, respectvely
-? AM_ST1, AM_ST2, AM_ST3, AM_POCI, Total_AM - reserve in amount for STAGE1, STAGE2, STAGE3, POCI & TOTAL portfolio, respectvely"
+reserve," ST1, ST2, ST3, POCI, Total - reserve in percent for STAGE1, STAGE2, STAGE3, POCI & Total portfolio, respectvely
+AM_ST1, AM_ST2, AM_ST3, AM_POCI, Total_AM - reserve in amount for STAGE1, STAGE2, STAGE3, POCI & Total portfolio, respectvely"

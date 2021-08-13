@@ -5,4 +5,4 @@ migration,rate_init,migrated amount divided on total amount of portfolio in k st
 migration,rate ,migrated amount divided on annual average stage k portfolio
 migration,"am19, rate19 & rate_init19","am, rate and rate_init in 2019 year"
 reserve,"ST1, ST2, ST3, POCI, Total "," reserve in percent for STAGE1, STAGE2, STAGE3, POCI & Total portfolio, respectvely"
-reserve,"AM_ST1, AM_ST2, AM_ST3, AM_POCI, Total_AM","reserve in amount for STAGE1, STAGE2, STAGE3, POCI & Total portfolio, respectvely"
+reserve,"AM_ST1, AM_ST2, AM_ST3, AM_POCI, Total_AM","Portfolio in amount for STAGE1, STAGE2, STAGE3, POCI & Total portfolio, respectvely"
